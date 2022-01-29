@@ -3,9 +3,10 @@
 <h3 align="left">A passionate developer from Bangladesh</h3>
 
 **About me**
-- Backend developer
-- love to solve problems
-- like to learn new things
+- 🌱 Backend developer
+- 😄 love to solve problems
+- 📫 like to learn new things
+- 👯 love to work on collaboration
 - 🔭 I’m currently working on [Germania Holdings Ltd.](https://ghl-bd.com/ghl/)
   
 **Languages and Tools:**
@@ -24,24 +25,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biplob14&show_icons=true&locale=en" alt="biplob14" /></p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biplob14&show_icons=true&locale=en&layout=compact" alt="biplob14" /></p> -->
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplob14&" alt="biplob14" /></p>
 
 
-
-
-
-**Biplob14/Biplob14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
