@@ -1,0 +1,23 @@
+{
+  "name": "biplob14",
+  "version": "1.0.0",
+  "description": "<!-- ### Hello, World! 👋 --> <!-- <h1 align=\"center\">I'm Sadekur Rahaman</h1> --> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hey+there!+%F0%9F%91%8B;I'm+Sadekur+Rahaman+%F0%9F%98%8E;Nice+to+meet+you+%F0%9F%A5%B3)](https://git.io/typing-svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Biplob14/Biplob14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Biplob14/Biplob14/issues"
+  },
+  "homepage": "https://github.com/Biplob14/Biplob14#readme",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
