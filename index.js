@@ -1,4 +1,5 @@
 // index.js
+require('dotenv').config();
 const fetch = require('node-fetch');
 // import fetch from "node-fetch";
 const Mustache = require('mustache');
@@ -36,7 +37,7 @@ function generateReadMe() {
 
 async function setWeatherInformation() {
     await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=dhaka&appid=1df5c5479bfd6f976ddaedc1ee4043ce`
+      `https://api.openweathermap.org/data/2.5/weather?q=dhaka&appid=${{secrets.WEATHER_API}}`
     )
       .then(r => r.json())
       .then(r => {

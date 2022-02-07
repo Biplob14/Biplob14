@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Biplob14/Biplob14#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "mustache": "^4.2.0",
     "node-fetch": "^2.6.1"
   }
