@@ -52,7 +52,6 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biplob14&" alt="biplob14" /></p>
 
-
 ### Randomly generated jokes for developer:
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%230d324d&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
@@ -61,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 7 February, 12:24 Bangladesh Standard Time.
-Currently, the weather is: <b> 295°C, <i>haze</i></b></br>Today, the sun rises at <b>06:36</b> and sets at <b>17:48</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
+Today is Thursday, 17 February, 17:49 Bangladesh Standard Time.
+Currently, the weather is: <b> 25°C, <i>haze</i></b></br>Today, the sun rises at <b>06:30</b> and sets at <b>17:54</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
