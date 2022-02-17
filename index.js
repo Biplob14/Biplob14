@@ -37,7 +37,7 @@ function generateReadMe() {
 
 async function setWeatherInformation() {
     await fetch(
-      `https://api.openweathermap.org/data/2.5/weather?q=dhaka&appid=${{ secrets.WEATHER_API }}&units=metric`
+      `https://api.openweathermap.org/data/2.5/weather?q=dhaka&appid=1df5c5479bfd6f976ddaedc1ee4043ce&units=metric`
     )
       .then(r => r.json())
       .then(r => {
