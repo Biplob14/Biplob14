@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Sunday, 27 February, 18:16 Bangladesh Standard Time.
-Currently, the weather is: <b> 26°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:22</b> and sets at <b>18:00</b>. <img src="https://openweathermap.org/img/w/01n.png" alt="weather icon 01n"></p>
+Today is Sunday, 27 February, 21:10 Bangladesh Standard Time.
+Currently, the weather is: <b> 25°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:22</b> and sets at <b>18:00</b>. <img src="https://openweathermap.org/img/w/01n.png" alt="weather icon 01n"></p>
