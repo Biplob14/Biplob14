@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Wednesday, 20 April, 07:03 Bangladesh Standard Time.
-Currently, the weather is: <b> 26°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>05:33</b> and sets at <b>18:21</b>. <img src="https://openweathermap.org/img/w/04d.png" alt="weather icon 04d"></p>
+Today is Wednesday, 20 April, 09:58 Bangladesh Standard Time.
+Currently, the weather is: <b> 26°C, <i>haze</i></b></br>Today, the sun rises at <b>05:33</b> and sets at <b>18:21</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
