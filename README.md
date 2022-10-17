@@ -7,7 +7,7 @@
 - 😄 love to solve problems
 - 📫 like to learn new things
 - 👯 love to work on collaboration
-- 🔭 I’m currently working on [Zay Corporation Ltd.](http://www.zay.co.com)
+- 🔭 I’m currently working on [Germania Holdings Ltd.](https://ghl-bd.com/ghl/)
   
 **Languages and Tools:**
 
@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 17 October, 21:19 Bangladesh Standard Time.
+Today is Monday, 17 October, 21:21 Bangladesh Standard Time.
 Currently, the weather is: <b> 30°C, <i>haze</i></b></br>Today, the sun rises at <b>05:56</b> and sets at <b>17:31</b>. <img src="https://openweathermap.org/img/w/50n.png" alt="weather icon 50n"></p>
