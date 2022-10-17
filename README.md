@@ -7,7 +7,7 @@
 - 😄 love to solve problems
 - 📫 like to learn new things
 - 👯 love to work on collaboration
-- 🔭 I’m currently working on [Germania Holdings Ltd.](https://ghl-bd.com/ghl/)
+- 🔭 I’m currently working on [Zay Corporation Ltd.](http://www.zay.co.com)
   
 **Languages and Tools:**
 
