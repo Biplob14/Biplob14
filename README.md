@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Tuesday, 31 January, 06:57 Bangladesh Standard Time.
-Currently, the weather is: <b> 18°C, <i>fog</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:43</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
+Today is Tuesday, 31 January, 09:12 Bangladesh Standard Time.
+Currently, the weather is: <b> 20°C, <i>fog</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:43</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
