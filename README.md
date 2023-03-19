@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Sunday, 19 March, 06:59 Bangladesh Standard Time.
+Today is Sunday, 19 March, 09:12 Bangladesh Standard Time.
 Currently, the weather is: <b> 24°C, <i>mist</i></b></br>Today, the sun rises at <b>06:04</b> and sets at <b>18:08</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
