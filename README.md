@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Sunday, 4 June, 12:11 Bangladesh Standard Time.
-Currently, the weather is: <b> 36°C, <i>haze</i></b></br>Today, the sun rises at <b>05:11</b> and sets at <b>18:42</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
+Today is Sunday, 4 June, 15:09 Bangladesh Standard Time.
+Currently, the weather is: <b> 37°C, <i>haze</i></b></br>Today, the sun rises at <b>05:11</b> and sets at <b>18:42</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
