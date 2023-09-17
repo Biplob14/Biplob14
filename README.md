@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Sunday, 17 September, 06:45 Bangladesh Standard Time.
-Currently, the weather is: <b> 28°C, <i>haze</i></b></br>Today, the sun rises at <b>05:45</b> and sets at <b>18:01</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
+Today is Sunday, 17 September, 09:09 Bangladesh Standard Time.
+Currently, the weather is: <b> 30°C, <i>haze</i></b></br>Today, the sun rises at <b>05:45</b> and sets at <b>18:01</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
