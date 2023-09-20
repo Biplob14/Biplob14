@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Wednesday, 20 September, 18:35 Bangladesh Standard Time.
+Today is Wednesday, 20 September, 21:10 Bangladesh Standard Time.
 Currently, the weather is: <b> 28°C, <i>haze</i></b></br>Today, the sun rises at <b>05:46</b> and sets at <b>17:58</b>. <img src="https://openweathermap.org/img/w/50n.png" alt="weather icon 50n"></p>
