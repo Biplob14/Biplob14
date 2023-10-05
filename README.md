@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Thursday, 5 October, 15:09 Bangladesh Standard Time.
-Currently, the weather is: <b> 28°C, <i>moderate rain</i></b></br>Today, the sun rises at <b>05:51</b> and sets at <b>17:42</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
+Today is Thursday, 5 October, 18:19 Bangladesh Standard Time.
+Currently, the weather is: <b> 27°C, <i>very heavy rain</i></b></br>Today, the sun rises at <b>05:51</b> and sets at <b>17:42</b>. <img src="https://openweathermap.org/img/w/10n.png" alt="weather icon 10n"></p>
