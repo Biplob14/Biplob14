@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 23 October, 06:43 Bangladesh Standard Time.
-Currently, the weather is: <b> 26°C, <i>haze</i></b></br>Today, the sun rises at <b>05:58</b> and sets at <b>17:26</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
+Today is Monday, 23 October, 09:10 Bangladesh Standard Time.
+Currently, the weather is: <b> 28°C, <i>mist</i></b></br>Today, the sun rises at <b>05:58</b> and sets at <b>17:26</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
