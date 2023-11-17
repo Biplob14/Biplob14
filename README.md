@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Friday, 17 November, 09:10 Bangladesh Standard Time.
+Today is Friday, 17 November, 12:13 Bangladesh Standard Time.
 Currently, the weather is: <b> 23°C, <i>heavy intensity rain</i></b></br>Today, the sun rises at <b>06:13</b> and sets at <b>17:12</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
