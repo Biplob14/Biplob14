@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Thursday, 7 December, 00:12 Bangladesh Standard Time.
-Currently, the weather is: <b> 24°C, <i>drizzle</i></b></br>Today, the sun rises at <b>06:27</b> and sets at <b>17:11</b>. <img src="https://openweathermap.org/img/w/09n.png" alt="weather icon 09n"></p>
+Today is Thursday, 7 December, 03:09 Bangladesh Standard Time.
+Currently, the weather is: <b> 22°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>06:27</b> and sets at <b>17:11</b>. <img src="https://openweathermap.org/img/w/04n.png" alt="weather icon 04n"></p>
