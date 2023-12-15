@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Friday, 15 December, 06:48 Bangladesh Standard Time.
-Currently, the weather is: <b> 16°C, <i>mist</i></b></br>Today, the sun rises at <b>06:32</b> and sets at <b>17:13</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
+Today is Friday, 15 December, 09:10 Bangladesh Standard Time.
+Currently, the weather is: <b> 17°C, <i>mist</i></b></br>Today, the sun rises at <b>06:32</b> and sets at <b>17:13</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
