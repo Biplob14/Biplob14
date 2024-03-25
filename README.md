@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 25 March, 06:45 Bangladesh Standard Time.
-Currently, the weather is: <b> 22°C, <i>mist</i></b></br>Today, the sun rises at <b>05:57</b> and sets at <b>18:11</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
+Today is Monday, 25 March, 09:12 Bangladesh Standard Time.
+Currently, the weather is: <b> 25°C, <i>mist</i></b></br>Today, the sun rises at <b>05:57</b> and sets at <b>18:11</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
