@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 8 April, 12:13 Bangladesh Standard Time.
-Currently, the weather is: <b> 28°C, <i>drizzle</i></b></br>Today, the sun rises at <b>05:43</b> and sets at <b>18:16</b>. <img src="https://openweathermap.org/img/w/09d.png" alt="weather icon 09d"></p>
+Today is Monday, 8 April, 15:11 Bangladesh Standard Time.
+Currently, the weather is: <b> 28°C, <i>haze</i></b></br>Today, the sun rises at <b>05:43</b> and sets at <b>18:16</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
