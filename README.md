@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 22 April, 09:11 Bangladesh Standard Time.
-Currently, the weather is: <b> 33°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>05:31</b> and sets at <b>18:22</b>. <img src="https://openweathermap.org/img/w/04d.png" alt="weather icon 04d"></p>
+Today is Monday, 22 April, 12:14 Bangladesh Standard Time.
+Currently, the weather is: <b> 39°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>05:31</b> and sets at <b>18:22</b>. <img src="https://openweathermap.org/img/w/04d.png" alt="weather icon 04d"></p>
