@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Tuesday, 23 April, 21:10 Bangladesh Standard Time.
-Currently, the weather is: <b> 32°C, <i>haze</i></b></br>Today, the sun rises at <b>05:30</b> and sets at <b>18:22</b>. <img src="https://openweathermap.org/img/w/50n.png" alt="weather icon 50n"></p>
+Today is Wednesday, 24 April, 00:12 Bangladesh Standard Time.
+Currently, the weather is: <b> 30°C, <i>haze</i></b></br>Today, the sun rises at <b>05:29</b> and sets at <b>18:23</b>. <img src="https://openweathermap.org/img/w/50n.png" alt="weather icon 50n"></p>
