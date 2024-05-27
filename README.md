@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 27 May, 15:12 Bangladesh Standard Time.
-Currently, the weather is: <b> 27°C, <i>moderate rain</i></b></br>Today, the sun rises at <b>05:12</b> and sets at <b>18:39</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
+Today is Monday, 27 May, 18:19 Bangladesh Standard Time.
+Currently, the weather is: <b> 27°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>05:12</b> and sets at <b>18:39</b>. <img src="https://openweathermap.org/img/w/04d.png" alt="weather icon 04d"></p>
