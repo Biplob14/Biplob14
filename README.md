@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Tuesday, 25 June, 15:11 Bangladesh Standard Time.
-Currently, the weather is: <b> 35°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>05:13</b> and sets at <b>18:48</b>. <img src="https://openweathermap.org/img/w/04d.png" alt="weather icon 04d"></p>
+Today is Tuesday, 25 June, 18:20 Bangladesh Standard Time.
+Currently, the weather is: <b> 33°C, <i>broken clouds</i></b></br>Today, the sun rises at <b>05:13</b> and sets at <b>18:48</b>. <img src="https://openweathermap.org/img/w/04d.png" alt="weather icon 04d"></p>
