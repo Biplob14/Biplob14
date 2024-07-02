@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Tuesday, 2 July, 09:12 Bangladesh Standard Time.
-Currently, the weather is: <b> 26°C, <i>thunderstorm with rain</i></b></br>Today, the sun rises at <b>05:15</b> and sets at <b>18:49</b>. <img src="https://openweathermap.org/img/w/11d.png" alt="weather icon 11d"></p>
+Today is Tuesday, 2 July, 12:16 Bangladesh Standard Time.
+Currently, the weather is: <b> 28°C, <i>drizzle</i></b></br>Today, the sun rises at <b>05:15</b> and sets at <b>18:49</b>. <img src="https://openweathermap.org/img/w/09d.png" alt="weather icon 09d"></p>
