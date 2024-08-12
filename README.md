@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 12 August, 15:12 Bangladesh Standard Time.
-Currently, the weather is: <b> 31°C, <i>haze</i></b></br>Today, the sun rises at <b>05:32</b> and sets at <b>18:34</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
+Today is Monday, 12 August, 18:23 Bangladesh Standard Time.
+Currently, the weather is: <b> 28°C, <i>heavy intensity rain</i></b></br>Today, the sun rises at <b>05:32</b> and sets at <b>18:34</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
