@@ -7,7 +7,7 @@
 - 😄 love to solve problems
 - 📫 like to learn new things
 - 👯 love to work on collaboration
-- 🔭 I’m currently working on [Craftsmen Ltd.](https://www.craftsmensoftware.com/)
+- 🔭 I’m currently working on [Germania Holdings Ltd.](https://ghl-bd.com/ghl/)
   
 **Languages and Tools:**
 
@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 19 August, 09:12 Bangladesh Standard Time.
-Currently, the weather is: <b> 26°C, <i>drizzle</i></b></br>Today, the sun rises at <b>05:35</b> and sets at <b>18:28</b>. <img src="https://openweathermap.org/img/w/09d.png" alt="weather icon 09d"></p>
+Today is Monday, 19 August, 12:11 Bangladesh Standard Time.
+Currently, the weather is: <b> 27°C, <i>drizzle</i></b></br>Today, the sun rises at <b>05:35</b> and sets at <b>18:28</b>. <img src="https://openweathermap.org/img/w/09d.png" alt="weather icon 09d"></p>
