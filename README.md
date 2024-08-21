@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Wednesday, 21 August, 03:12 Bangladesh Standard Time.
-Currently, the weather is: <b> 28°C, <i>light rain</i></b></br>Today, the sun rises at <b>05:36</b> and sets at <b>18:26</b>. <img src="https://openweathermap.org/img/w/10n.png" alt="weather icon 10n"></p>
+Today is Wednesday, 21 August, 06:53 Bangladesh Standard Time.
+Currently, the weather is: <b> 28°C, <i>drizzle</i></b></br>Today, the sun rises at <b>05:36</b> and sets at <b>18:26</b>. <img src="https://openweathermap.org/img/w/09d.png" alt="weather icon 09d"></p>
