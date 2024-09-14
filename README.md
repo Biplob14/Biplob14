@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Saturday, 14 September, 12:16 Bangladesh Standard Time.
-Currently, the weather is: <b> 26°C, <i>moderate rain</i></b></br>Today, the sun rises at <b>05:44</b> and sets at <b>18:03</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
+Today is Saturday, 14 September, 15:11 Bangladesh Standard Time.
+Currently, the weather is: <b> 26°C, <i>heavy intensity rain</i></b></br>Today, the sun rises at <b>05:44</b> and sets at <b>18:03</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
