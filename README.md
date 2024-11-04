@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 4 November, 15:15 Bangladesh Standard Time.
-Currently, the weather is: <b> 31°C, <i>haze</i></b></br>Today, the sun rises at <b>06:05</b> and sets at <b>17:17</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
+Today is Monday, 4 November, 18:25 Bangladesh Standard Time.
+Currently, the weather is: <b> 29°C, <i>haze</i></b></br>Today, the sun rises at <b>06:05</b> and sets at <b>17:17</b>. <img src="https://openweathermap.org/img/w/50n.png" alt="weather icon 50n"></p>
