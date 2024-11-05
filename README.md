@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Tuesday, 5 November, 21:13 Bangladesh Standard Time.
-Currently, the weather is: <b> 25°C, <i>thunderstorm</i></b></br>Today, the sun rises at <b>06:06</b> and sets at <b>17:17</b>. <img src="https://openweathermap.org/img/w/11n.png" alt="weather icon 11n"></p>
+Today is Wednesday, 6 November, 00:16 Bangladesh Standard Time.
+Currently, the weather is: <b> 25°C, <i>thunderstorm</i></b></br>Today, the sun rises at <b>06:07</b> and sets at <b>17:16</b>. <img src="https://openweathermap.org/img/w/11n.png" alt="weather icon 11n"></p>
