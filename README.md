@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Sunday, 24 November, 07:07 Bangladesh Standard Time.
-Currently, the weather is: <b> 20°C, <i>mist</i></b></br>Today, the sun rises at <b>06:19</b> and sets at <b>17:11</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
+Today is Sunday, 24 November, 09:28 Bangladesh Standard Time.
+Currently, the weather is: <b> 23°C, <i>mist</i></b></br>Today, the sun rises at <b>06:19</b> and sets at <b>17:11</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
