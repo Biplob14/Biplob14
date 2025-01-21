@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Wednesday, 22 January, 00:17 Bangladesh Standard Time.
+Today is Wednesday, 22 January, 03:11 Bangladesh Standard Time.
 Currently, the weather is: <b> 17°C, <i>mist</i></b></br>Today, the sun rises at <b>06:42</b> and sets at <b>17:37</b>. <img src="https://openweathermap.org/img/w/50n.png" alt="weather icon 50n"></p>
