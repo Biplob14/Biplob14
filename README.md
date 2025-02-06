@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Thursday, 6 February, 18:24 Bangladesh Standard Time.
-Currently, the weather is: <b> 26°C, <i>haze</i></b></br>Today, the sun rises at <b>06:36</b> and sets at <b>17:48</b>. <img src="https://openweathermap.org/img/w/50n.png" alt="weather icon 50n"></p>
+Today is Thursday, 6 February, 21:13 Bangladesh Standard Time.
+Currently, the weather is: <b> 24°C, <i>haze</i></b></br>Today, the sun rises at <b>06:36</b> and sets at <b>17:48</b>. <img src="https://openweathermap.org/img/w/50n.png" alt="weather icon 50n"></p>
