@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 12 May at 15:16 Bangladesh Standard Time.
-Currently, the weather is: <b> 40°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>05:17</b> and sets at <b>18:31</b>. <img src="https://openweathermap.org/img/w/03d.png" alt="weather icon 03d"></p>
+Today is Monday, 12 May at 18:29 Bangladesh Standard Time.
+Currently, the weather is: <b> 36°C, <i>scattered clouds</i></b></br>Today, the sun rises at <b>05:17</b> and sets at <b>18:31</b>. <img src="https://openweathermap.org/img/w/03d.png" alt="weather icon 03d"></p>
