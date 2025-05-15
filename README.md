@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Thursday, 15 May at 15:15 Bangladesh Standard Time.
-Currently, the weather is: <b> 39°C, <i>moderate rain</i></b></br>Today, the sun rises at <b>05:16</b> and sets at <b>18:33</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
+Today is Thursday, 15 May at 18:28 Bangladesh Standard Time.
+Currently, the weather is: <b> 29°C, <i>light rain</i></b></br>Today, the sun rises at <b>05:16</b> and sets at <b>18:33</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
