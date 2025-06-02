@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Monday, 2 June at 09:48 Bangladesh Standard Time.
-Currently, the weather is: <b> 26°C, <i>moderate rain</i></b></br>Today, the sun rises at <b>05:11</b> and sets at <b>18:41</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
+Today is Monday, 2 June at 12:21 Bangladesh Standard Time.
+Currently, the weather is: <b> 27°C, <i>haze</i></b></br>Today, the sun rises at <b>05:11</b> and sets at <b>18:41</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
