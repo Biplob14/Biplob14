@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Wednesday, 9 July at 09:51 Bangladesh Standard Time.
-Currently, the weather is: <b> 26°C, <i>overcast clouds</i></b></br>Today, the sun rises at <b>05:17</b> and sets at <b>18:49</b>. <img src="https://openweathermap.org/img/w/04d.png" alt="weather icon 04d"></p>
+Today is Wednesday, 9 July at 12:22 Bangladesh Standard Time.
+Currently, the weather is: <b> 26°C, <i>moderate rain</i></b></br>Today, the sun rises at <b>05:17</b> and sets at <b>18:49</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
