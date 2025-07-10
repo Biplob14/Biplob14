@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Thursday, 10 July at 07:13 Bangladesh Standard Time.
+Today is Thursday, 10 July at 09:50 Bangladesh Standard Time.
 Currently, the weather is: <b> 26°C, <i>moderate rain</i></b></br>Today, the sun rises at <b>05:18</b> and sets at <b>18:48</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
