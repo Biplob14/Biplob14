@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Friday, 11 July at 07:14 Bangladesh Standard Time.
-Currently, the weather is: <b> 26°C, <i>drizzle</i></b></br>Today, the sun rises at <b>05:18</b> and sets at <b>18:48</b>. <img src="https://openweathermap.org/img/w/09d.png" alt="weather icon 09d"></p>
+Today is Friday, 11 July at 09:55 Bangladesh Standard Time.
+Currently, the weather is: <b> 28°C, <i>haze</i></b></br>Today, the sun rises at <b>05:18</b> and sets at <b>18:48</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
