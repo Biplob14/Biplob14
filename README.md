@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Thursday, 24 July at 07:16 Bangladesh Standard Time.
-Currently, the weather is: <b> 25°C, <i>heavy intensity rain</i></b></br>Today, the sun rises at <b>05:24</b> and sets at <b>18:45</b>. <img src="https://openweathermap.org/img/w/10d.png" alt="weather icon 10d"></p>
+Today is Thursday, 24 July at 09:57 Bangladesh Standard Time.
+Currently, the weather is: <b> 27°C, <i>haze</i></b></br>Today, the sun rises at <b>05:24</b> and sets at <b>18:45</b>. <img src="https://openweathermap.org/img/w/50d.png" alt="weather icon 50d"></p>
