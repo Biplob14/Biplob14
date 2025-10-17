@@ -60,5 +60,5 @@
 ------------
 **Current status**
 
-Today is Friday, 17 October at 18:28 Bangladesh Standard Time.
-Currently, the weather is: <b> 30°C, <i>haze</i></b></br>Today, the sun rises at <b>05:56</b> and sets at <b>17:30</b>. <img src="https://openweathermap.org/img/w/50n.png" alt="weather icon 50n"></p>
+Today is Friday, 17 October at 21:13 Bangladesh Standard Time.
+Currently, the weather is: <b> 29°C, <i>haze</i></b></br>Today, the sun rises at <b>05:56</b> and sets at <b>17:30</b>. <img src="https://openweathermap.org/img/w/50n.png" alt="weather icon 50n"></p>
