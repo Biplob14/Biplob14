@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Monday, 8 December at 09:29 Bangladesh Standard Time | Weather: **20°C, mist** <img src="https://openweathermap.org/img/w/50d.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:28 | 🌇 Sunset: 17:11
+Today is Monday, 8 December at 12:05 Bangladesh Standard Time | Weather: **25°C, haze** <img src="https://openweathermap.org/img/w/50d.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:28 | 🌇 Sunset: 17:11
 
 ---
 
