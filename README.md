@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Friday, 2 January at 03:03 Bangladesh Standard Time | Weather: **14°C, fog** <img src="https://openweathermap.org/img/w/50n.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:40 | 🌇 Sunset: 17:23
+Today is Friday, 2 January at 06:14 Bangladesh Standard Time | Weather: **13°C, fog** <img src="https://openweathermap.org/img/w/50n.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:40 | 🌇 Sunset: 17:23
 
 ---
 
