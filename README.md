@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Saturday, 3 January at 12:04 Bangladesh Standard Time | Weather: **17°C, mist** <img src="https://openweathermap.org/img/w/50d.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:41 | 🌇 Sunset: 17:23
+Today is Saturday, 3 January at 15:03 Bangladesh Standard Time | Weather: **20°C, mist** <img src="https://openweathermap.org/img/w/50d.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:41 | 🌇 Sunset: 17:23
 
 ---
 
