@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Saturday, 14 February at 06:19 Bangladesh Standard Time | Weather: **17°C, haze** <img src="https://openweathermap.org/img/w/50n.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:32 | 🌇 Sunset: 17:52
+Today is Saturday, 14 February at 09:46 Bangladesh Standard Time | Weather: **23°C, haze** <img src="https://openweathermap.org/img/w/50d.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:32 | 🌇 Sunset: 17:52
 
 ---
 
