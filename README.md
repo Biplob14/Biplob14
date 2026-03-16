@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Monday, 16 March at 06:21 Bangladesh Standard Time | Weather: **24°C, scattered clouds** <img src="https://openweathermap.org/img/w/03d.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:06 | 🌇 Sunset: 18:07
+Today is Monday, 16 March at 09:59 Bangladesh Standard Time | Weather: **27°C, haze** <img src="https://openweathermap.org/img/w/50d.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:06 | 🌇 Sunset: 18:07
 
 ---
 
