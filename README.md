@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Friday, 24 April at 18:20 Bangladesh Standard Time | Weather: **33°C, haze** <img src="https://openweathermap.org/img/w/50d.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:29 | 🌇 Sunset: 18:22
+Today is Friday, 24 April at 21:26 Bangladesh Standard Time | Weather: **32°C, light rain** <img src="https://openweathermap.org/img/w/10n.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:29 | 🌇 Sunset: 18:22
 
 ---
 
