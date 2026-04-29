@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Thursday, 30 April at 00:29 Bangladesh Standard Time | Weather: **21°C, thunderstorm with rain** <img src="https://openweathermap.org/img/w/11n.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:25 | 🌇 Sunset: 18:25
+Today is Thursday, 30 April at 03:23 Bangladesh Standard Time | Weather: **21°C, moderate rain** <img src="https://openweathermap.org/img/w/10n.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:25 | 🌇 Sunset: 18:25
 
 ---
 
