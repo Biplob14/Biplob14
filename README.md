@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Friday, 1 May at 03:21 Bangladesh Standard Time | Weather: **23°C, overcast clouds** <img src="https://openweathermap.org/img/w/04n.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:24 | 🌇 Sunset: 18:26
+Today is Friday, 1 May at 06:34 Bangladesh Standard Time | Weather: **22°C, thunderstorm with rain** <img src="https://openweathermap.org/img/w/11d.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:24 | 🌇 Sunset: 18:26
 
 ---
 
