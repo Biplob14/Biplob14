@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Tuesday, 23 June at 01:05 Bangladesh Standard Time | Weather: **27°C, few clouds** <img src="https://openweathermap.org/img/w/02n.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:12 | 🌇 Sunset: 18:48
+Today is Tuesday, 23 June at 03:41 Bangladesh Standard Time | Weather: **27°C, few clouds** <img src="https://openweathermap.org/img/w/02n.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:12 | 🌇 Sunset: 18:48
 
 ---
 
