@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Saturday, 1 August at 11:49 Bangladesh Standard Time | Weather: **33°C, broken clouds** <img src="https://openweathermap.org/img/w/04d.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:27 | 🌇 Sunset: 18:41
+Today is Saturday, 1 August at 14:10 Bangladesh Standard Time | Weather: **33°C, light rain** <img src="https://openweathermap.org/img/w/10d.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:27 | 🌇 Sunset: 18:41
 
 ---
 
