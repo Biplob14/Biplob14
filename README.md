@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Thursday, 24 September at 05:23 Bangladesh Standard Time | Weather: **26°C, light rain** <img src="https://openweathermap.org/img/w/10n.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:47 | 🌇 Sunset: 17:53
+Today is Thursday, 24 September at 08:43 Bangladesh Standard Time | Weather: **28°C, light rain** <img src="https://openweathermap.org/img/w/10d.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:47 | 🌇 Sunset: 17:53
 
 ---
 
