@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Saturday, 3 October at 21:34 Bangladesh Standard Time | Weather: **30°C, broken clouds** <img src="https://openweathermap.org/img/w/04n.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:50 | 🌇 Sunset: 17:44
+Today is Sunday, 4 October at 02:28 Bangladesh Standard Time | Weather: **28°C, scattered clouds** <img src="https://openweathermap.org/img/w/03n.png" width="25" alt="weather"/> | 🌅 Sunrise: 05:50 | 🌇 Sunset: 17:43
 
 ---
 
