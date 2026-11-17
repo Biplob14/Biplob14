@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Tuesday, 17 November at 03:30 Bangladesh Standard Time | Weather: **23°C, mist** <img src="https://openweathermap.org/img/w/50n.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:14 | 🌇 Sunset: 17:12
+Today is Tuesday, 17 November at 12:04 Bangladesh Standard Time | Weather: **27°C, haze** <img src="https://openweathermap.org/img/w/50d.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:14 | 🌇 Sunset: 17:12
 
 ---
 
