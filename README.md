@@ -20,7 +20,7 @@
 
 **Coding from Dhaka, Bangladesh** 🇧🇩
 
-Today is Monday, 23 November at 00:55 Bangladesh Standard Time | Weather: **24°C, haze** <img src="https://openweathermap.org/img/w/50n.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:18 | 🌇 Sunset: 17:11
+Today is Monday, 23 November at 07:19 Bangladesh Standard Time | Weather: **24°C, mist** <img src="https://openweathermap.org/img/w/50d.png" width="25" alt="weather"/> | 🌅 Sunrise: 06:18 | 🌇 Sunset: 17:11
 
 ---
 
